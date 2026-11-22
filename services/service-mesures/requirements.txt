@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+paho-mqtt
+sqlalchemy
+psycopg2-binary
+confluent-kafka
+pyjwt
